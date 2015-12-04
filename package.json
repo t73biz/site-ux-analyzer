@@ -1,0 +1,23 @@
+{
+  "name": "site-ux-analyzer",
+  "version": "0.1.0",
+  "author": "t73biz",
+  "homepage": "https://github.com/t73biz/site-ux-analyzer",
+  "bugs": "https://github.com/t73biz/site-ux-analyzer/issues",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/t73biz/site-ux-analyzer.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4",
+    "grunt-shell": "~0.7",
+    "grunt-phplint": "~0.0",
+    "grunt-phpunit": "~0.3",
+    "grunt-version": "~1.0",
+    "load-grunt-tasks": "~3.1",
+    "time-grunt": "~1.1"
+  }
+}

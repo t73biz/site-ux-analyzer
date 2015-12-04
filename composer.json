@@ -1,0 +1,32 @@
+{
+  "name": "t73biz/site-ux-analyzer",
+  "version": "0.1.0",
+  "homepage": "https://github.com/t73biz/site-ux-analyzer",
+  "description": "",
+  "keywords": [
+    "php"
+  ],
+  "authors": [
+    {
+      "name": "t73biz",
+      "homepage": "https://github.com/t73biz",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/t73biz/site-ux-analyzer/issues",
+    "source": "https://github.com/t73biz/site-ux-analyzer"
+  },
+  "license": "MIT",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0",
+    "monolog/monolog": "1.*",
+    "google/apiclient": "^2.0.0@RC"
+  },
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "2.*",
+    "phpunit/phpunit": "4.*",
+    "sebastian/phpcpd": "2.*"
+  }
+}
